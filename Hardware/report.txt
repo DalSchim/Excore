@@ -1,0 +1,5 @@
+Tracé en '/Users/guillaume/Documents/pcb/Untitled-F_Cu.gbr'.
+Tracé en '/Users/guillaume/Documents/pcb/Untitled-Edge_Cuts.gbr'.
+Création du fichier Gerber "job" '/Users/guillaume/Documents/pcb/Untitled-job.gbrjob'.
+Info: Fini.
+Info: Fini.
